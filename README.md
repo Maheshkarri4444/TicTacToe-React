@@ -17,4 +17,4 @@
 </div>
 
 ## <a name="demo">🚨 Demo </a>
-👉 **Have a Look at the Live Demo here**: 
+👉 **Have a Look at the Live Demo here**: https://tic-tac-toe-react-eta.vercel.app/
